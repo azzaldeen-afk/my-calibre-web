@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">623f9b00-da04-431c-b40a-5f2267d003dc</dc:identifier>
+        <dc:title>Microsoft Word - the book 1 to 19 - 2.doc</dc:title>
+        <dc:creator opf:file-as="Administrator" opf:role="aut">Administrator</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:timestamp" content="2026-11-03T11:17:39.327447+00:00"/>
+        <meta name="calibre:title_sort" content="Microsoft Word - the book 1 to 19 - 2.doc"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

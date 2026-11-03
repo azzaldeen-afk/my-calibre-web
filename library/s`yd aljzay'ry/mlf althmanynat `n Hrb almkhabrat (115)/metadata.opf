@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">115</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2bf53662-1262-4d14-8793-86cbbd3485dd</dc:identifier>
+        <dc:title>ملف الثمانينات عن حرب المخابرات</dc:title>
+        <dc:creator opf:file-as="الجزائري, سعيد" opf:role="aut">سعيد الجزائري</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-13T06:06:12+00:00</dc:date>
+        <dc:description>320 ج ز م</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>81903</dc:subject>
+        <meta name="calibre:timestamp" content="2026-11-03T11:18:35.102033+00:00"/>
+        <meta name="calibre:title_sort" content="ملف الثمانينات عن حرب المخابرات"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">78</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">141e05cc-34a8-4127-b893-77d3b139d20c</dc:identifier>
+        <dc:title>نموذج</dc:title>
+        <dc:creator opf:file-as="Haytham" opf:role="aut">Haytham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.15.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-21T20:20:02+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:timestamp" content="2026-11-03T11:18:28.472109+00:00"/>
+        <meta name="calibre:title_sort" content="نموذج"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
